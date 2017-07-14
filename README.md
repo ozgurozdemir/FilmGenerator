@@ -1,9 +1,4 @@
 # FilmGenerator
-Python3 Program That Gives You Suggestion For Movies 
-Film Generator 
-Created by Özgür Özdemir 
-Uploaded June 13 2017 
-This program uses Cinemaximum website with non-commercial purposes
 
  It is a python3 program that gives you a suggestion based on your watched movies, and also you can see what is in theaters now, add films to your watched list, add your favorite theaters. 
  
@@ -13,3 +8,9 @@ This program uses Cinemaximum website with non-commercial purposes
 
  v1: 
 * It allow you to use only one theater.
+
+Python3 Program That Gives You Suggestion For Movies 
+Film Generator 
+Created by Özgür Özdemir 
+Uploaded June 13 2017 
+This program uses Cinemaximum website with non-commercial purposes
