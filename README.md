@@ -1,6 +1,5 @@
 # FilmGenerator
-Python3 Program That Gives You Suggestion For Movies
-
+ Python3 Program That Gives You Suggestion For Movies
  Film Generator
  Created by Özgür Özdemir
  Uploaded /June 13 2017/
