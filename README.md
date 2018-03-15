@@ -1,6 +1,6 @@
 # FilmGenerator
 
-* Currently not using due to change in website but it will updated.
+* Currently not using due to change in website design, it will update, yet the algorithm is still working.
 
  It is a python3 program that gives you a suggestion based on your watched movies, and also you can see what is in theaters now, add films to your watched list, add your favorite theaters. 
  
