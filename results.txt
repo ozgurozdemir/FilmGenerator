@@ -1,0 +1,39 @@
+                 BPE     Gumbel    BLEU
+=====================================================
+Seq2seq                            0.19474925591210243
+Seq2seq           x                0.18008344358130948
+Seq2seq           	   x       0.20077047561915393
+Seq2seq           x        x       0.17305798012303664
+=====================================================
+Seq2seq+Atten                      0.13251330563978417
+Seq2seq+Atten     x                0.1072287762437969
+Seq2seq+Atten              x       0.2011168008796428
+Seq2seq+Atten     x        x       0.16055640854646944
+=====================================================
+Transformer                        0.1672187475031474
+Transformer                x       0.19979890664215402
+Transformer       x                0.2166670485559219
+Transformer       x        x       0.2241382220910372
+
+
+
+
+=====================================================
+Input:
+- ve beynin bunu nasıl yaptığıyla ilgili bir şey de biliyoruz aslında .
+
+Groundtruth:
+- and we even know something about the way the brain does this .
+
+Seq2Seq_w_attention:
+- and we know a lot about understanding about the brain actually does .
+
+Seq2Seq_gumbel:
+- and we know how this is an brain of how we think about it .
+
+Seq2Seq_bpe:
+- And that we have to do something about the brain .
+
+Seq2Seq_bpe_gumbel:
+- And we know that this is the same kind of information we apos re doing to the right kind of the brain .
+=====================================================
